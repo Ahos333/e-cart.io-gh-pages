@@ -3,7 +3,7 @@
 	max-width: 1500px;
 	height: 100vh;
 	overflow: hidden;
-	background: url('../img/hero-img.jpg') center center/cover;
+	background: url('../img/hero-img.png') center center/cover;
 	position: relative;
 	border: none;
 	outline: none;
@@ -110,7 +110,7 @@
 	width: 90%;
 	height: 300px;
 	border-radius: 50%;
-	background: url('../img/info-img.jpg') no-repeat center center/cover;
+	background: url('../img/info-img.png') no-repeat center center/cover;
 	/*
 	mix-blend-mode: lighten;
 	background-color: #f1f0f0;
